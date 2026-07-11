@@ -1,0 +1,6 @@
+{
+  "name": "Yatra Kashi Dham",
+  "description": "Explore Banaras (Varanasi) Ghats, Temples, Local Tours & Food with an AI Travel Guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
